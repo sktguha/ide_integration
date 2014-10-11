@@ -1,0 +1,2 @@
+codechefsave();
+//codechef snapshoter

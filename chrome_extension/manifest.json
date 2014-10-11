@@ -1,0 +1,33 @@
+{
+  "name": "hackerearth.com , codechef.com and Netbeans Integration",
+  "description": "write code in netbeans and send it to any currently open hackerearth.com /hackerrank.com or codechef.com tab.",
+  "version": "0.2",
+  "permissions": [
+  "tabs",
+  "http://www.hackerearth.com/*",
+  "http://www.codechef.com/*",
+  "https://www.hackerrank.com/*",
+  "https://www.hackerrank.com/*",
+  "clipboardRead",
+  "clipboardWrite",
+  "storage"
+  ],
+  "background": {
+    "persistent": false,
+	 "page": "background.html"
+  },
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["http://www.hackerearth.com/*","https://www.hackerearth.com/*"],
+      "js": ["inject_hackerearth.js"],
+	  "persistent":false
+	}
+  ],
+  "icons": { 
+          "128": "icon.png" 
+  }
+  /*"browser_action": {
+          "default_icon": "icon.png"
+        } */
+}

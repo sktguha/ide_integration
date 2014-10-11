@@ -1,0 +1,7 @@
+"content_scripts": [
+    {
+      "matches": ["http://www.hackerearth.com/*"],
+      "js": ["inject.js"],
+	  "run_at":"document_start"
+	}
+  ]
