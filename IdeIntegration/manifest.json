@@ -1,5 +1,5 @@
 {
-  "name": "hackerearth.com ,codechef.com and hackerrank.com IDE Integration",
+  "name": "IDE Integrate-hackerrank,hackerearth,codechef",
   "short_name":"IdeIntegration",
   "description": "write code in any IDE and send it to any currently open hackerearth.com , hackerrank.com or codechef.com tab.",
   "version": "0.2",
@@ -30,8 +30,4 @@
   "icons": { 
           "128": "icon.png" 
   }
-  
-  /*"browser_action": {
-          "default_icon": "icon.png"
-        } */
 }

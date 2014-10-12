@@ -18,7 +18,7 @@ to be ready. And yes, google chrome needs to be set as the default browser
    Works only for java files .Installing that plugin will add a context menu option "send code to Hackerearth or Codechef or Hackerrank". clicking that option will again trigger a prompt
    in google chrome(see step 4). see this video on how to install plugins for netbeans https://www.youtube.com/watch?v=GZLFcGfxHKU
   
-Note for codechef.com (the editor with line numbers , syntax colouring) etc needs to be active
+Note for codechef.com the editor with line numbers , syntax colouring etc needs to be active
    
    
    
