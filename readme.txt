@@ -1,4 +1,4 @@
-IDE integration is a faster alternative to avoid copy pasting when using a desktop IDE to solve problems on competitive programming websites 
+IDE integration is a faster alternative to copy pasting when using a desktop IDE to solve problems on competitive programming websites 
 hackerrank, hackerrearth and codechef. It is pretty simple to use.
 What it does, in a nutshell , is that usually when you write code for sites as hackerearth,hackerrank, codechef in a desktop IDE, you need to 
 copy paste the code into the online editor. So this extensions limits up the process in such cases to a single keystroke
@@ -15,3 +15,5 @@ to be ready. And yes, google chrome needs to be the default browser
 5. obviously this is only for windows. However only for netbeans IDE(http://www.netbeans.org/) there a plugin at https://github.com/sktguha/ide_integration/blob/master/netbeans_specific/IdeIntegration.nbm?raw=true
    Installing that plugin will add a context menu option "send code to Hackerearth or Codechef or Hackerrank". clicking that option will again trigger a prompt
    in google chrome(see step 4)
+   
+   
