@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: hackerearth
+OpenIDE-Module-Localizing-Bundle: hackerearth/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

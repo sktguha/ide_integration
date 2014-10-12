@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="File">
+            <file name="hackerearth-NewClass.instance">
+                <!--hackerearth.NewClass-->
+                <attr name="displayName" stringvalue="Send Code To Hackerearth or Codechef or Hackerrank"/>
+                <attr methodvalue="org.openide.awt.Actions.context" name="instanceCreate"/>
+                <attr name="type" stringvalue="org.openide.cookies.EditorCookie"/>
+                <attr methodvalue="org.openide.awt.Actions.inject" name="delegate"/>
+                <attr name="injectable" stringvalue="hackerearth.NewClass"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Editors">
+        <folder name="text">
+            <folder name="x-java">
+                <folder name="Popup">
+                    <file name="hackerearth-NewClass.shadow">
+                        <!--hackerearth.NewClass-->
+                        <attr name="originalFile" stringvalue="Actions/File/hackerearth-NewClass.instance"/>
+                        <attr intvalue="1740" name="position"/>
+                    </file>
+                    <file name="hackerearth-NewClass-separatorBefore.instance">
+                        <!--hackerearth.NewClass-->
+                        <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                        <attr intvalue="1730" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+            <folder name="javascript">
+                <file name="hackerearth-NewClass.shadow">
+                    <!--hackerearth.NewClass-->
+                    <attr name="originalFile" stringvalue="Actions/File/hackerearth-NewClass.instance"/>
+                    <attr intvalue="1740" name="position"/>
+                </file>
+                <file name="hackerearth-NewClass-separatorBefore.instance">
+                    <!--hackerearth.NewClass-->
+                    <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                    <attr intvalue="1730" name="position"/>
+                </file>
+            </folder>
+            <folder name="x-xml">
+                <folder name="Popup">
+                    <file name="hackerearth-NewClass.shadow">
+                        <!--hackerearth.NewClass-->
+                        <attr name="originalFile" stringvalue="Actions/File/hackerearth-NewClass.instance"/>
+                        <attr intvalue="1740" name="position"/>
+                    </file>
+                    <file name="hackerearth-NewClass-separatorBefore.instance">
+                        <!--hackerearth.NewClass-->
+                        <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                        <attr intvalue="1730" name="position"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

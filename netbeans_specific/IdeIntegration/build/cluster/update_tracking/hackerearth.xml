@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="hackerearth">
+    <module_version install_time="1413120724581" last="true" origin="installer" specification_version="1.0">
+        <file crc="555012379" name="config/Modules/hackerearth.xml"/>
+        <file crc="2333040452" name="modules/hackerearth.jar"/>
+    </module_version>
+</module>
