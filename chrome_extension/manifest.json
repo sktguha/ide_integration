@@ -1,6 +1,6 @@
 {
-  "name": "hackerearth.com , codechef.com and Netbeans Integration",
-  "description": "write code in netbeans and send it to any currently open hackerearth.com /hackerrank.com or codechef.com tab.",
+  "name": "hackerearth.com ,codechef.com and hackerrank.com IDE Integration",
+  "description": "write code in any IDE and send it to any currently open hackerearth.com /hackerrank.com or codechef.com tab.",
   "version": "0.2",
   "permissions": [
   "tabs",
