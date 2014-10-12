@@ -10,6 +10,8 @@ After installing the extension follow these steps to use it
 once you are done writing the code just press ctrl+shift+space. 
 4.A prompt will be triggered in google chrome asking which tab you want to send the code to(here sending the code refers to inserting the code in the online
 code editor open in that page), out of currently open , codechef.com,hackerrank.com,hackerearth.com tabs. 
-Of course this means implies that if one is writing code for problem that problem needs to be open in google chrome and online code editor needs 
+Of course this implies that if one is writing code for a problem that problem needs to be open in google chrome and online code editor needs 
 to be ready. And yes, google chrome needs to be the default browser
-5. obviously this is only for windows. However for netbeans IDE(http://www.netbeans.org/) there a plugin at 
+5. obviously this is only for windows. However only for netbeans IDE(http://www.netbeans.org/) there a plugin at https://github.com/sktguha/ide_integration/blob/master/netbeans_specific/IdeIntegration.nbm?raw=true
+   Installing that plugin will add a context menu option "send code to Hackerearth or Codechef or Hackerrank". clicking that option will again trigger a prompt
+   in google chrome(see step 4)
