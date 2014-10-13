@@ -12,7 +12,7 @@ document.body.appendChild(tx);
 chrome.runtime.onMessage.addListener(
   function(ct, sender, sendResponse) {
 	//alert("got this "+ct);  
-      ct=decodeURIComponent(ct);
+      //ct=decodeURIComponent(ct);
 	  tx.value=ct;
       write(ct);	 
  });
