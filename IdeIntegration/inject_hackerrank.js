@@ -13,7 +13,7 @@ chrome.runtime.onMessage.addListener(
   function(ct, sender, sendResponse) {
        //console.log("ye mila \n"+ct);  
         try{
-		 ct=decodeURIComponent(ct);
+		 //ct=decodeURIComponent(ct);
 		 tx.value=ct;
 		 write(ct);
 	     //codeEditor.doc.setValue(ct);
