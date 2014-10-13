@@ -3,7 +3,9 @@ hackerrank, hackerrearth and codechef. It is pretty simple to use.
 What it does, in a nutshell , is that usually when you write code for sites as hackerearth,hackerrank, codechef in a desktop IDE, you need to 
 copy paste the code into the online editor. So this extension limits up the process in such cases to a single keystroke
 
-After installing the extension follow these steps to use it or check out the video tutorial at http://youtu.be/OuC8s-5Ql-E
+Find it on the chrome web store at https://chrome.google.com/webstore/detail/ideintegrator-hackerrankh/npgognalpdpbnodicdmacdjahpejccjk
+
+After installing the extension(the folder IdeIntegrate is the unpacked chrome extension) follow these steps to use it or check out the video tutorial at http://youtu.be/OuC8s-5Ql-E
 
 1. Download the executable for windows(for other platforms see at step 5) from here https://github.com/sktguha/ide_integration/blob/master/ide.exe?raw=true
 2. Run the file ide.exe
