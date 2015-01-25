@@ -1,5 +1,3 @@
-//alert("i am here ");
-//codechef();
 chrome.runtime.onMessage.addListener(
   function(ct, sender, sendResponse) {
        console.log("ye mila \n"+ct);  
